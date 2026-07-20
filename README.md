@@ -26,6 +26,6 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDVwdWhzMnpmYWZ1ajFuc2MwbTJ5Znp6a2k1ZjUwd2NpcjF1bHM3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xEWB505DvNmso/giphy.gif"/>
 </div>
