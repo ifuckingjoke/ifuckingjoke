@@ -1,4 +1,4 @@
-<h1 align="center"> IFukingJoke / Fun Durov ❤️ </h1>
+<h1 align="center"> IFukingJoke / Dark Developer 💀 </h1>
 
 ###
 
